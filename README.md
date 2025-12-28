@@ -13,6 +13,10 @@ Instead of jumping straight into complex models, I intentionally focused on:
 * Building strong intuition around trends and seasonality
 * Communicating insights clearly using **Power BI** and **Tableau**
 
+Check out the complete article I have written on this Project: [Building a Real-World Time Series Project with Nutrition Data](https://nsdsda.medium.com/building-a-real-world-time-series-project-with-nutrition-data-eff2970c2c8f).
+
+If you wanna explore from the very basic, go for this first: [Handling Dates, Times & Time Series Data in Pandas](https://pub.towardsai.net/handling-dates-times-time-series-data-in-pandas-d4e8fcc46c62).
+
 
 ## What I Wanted to Achieve?
 
