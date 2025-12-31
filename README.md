@@ -80,7 +80,7 @@ Missing values are intentional and are used later to demonstrate **realistic cle
 
 ## Notebooks Walkthrough
 
-### 1. Dataset Generation & Overview
+### 1. [Dataset Generation & Overview](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data/blob/main/00_Notebook.ipynb)
 
 In this notebook, I:
 
@@ -90,7 +90,7 @@ In this notebook, I:
 * Explain the assumptions behind the data
 * Save the dataset as `nutrition_data.csv` for reuse
 
-### 2. Handling Dates, Times, and Time Series Data
+### 2. [Handling Dates, Times, and Time Series Data](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data/blob/main/01_Notebook.ipynb)
 
 Here, I focus on:
 
@@ -99,7 +99,7 @@ Here, I focus on:
 * Resampling and aggregating time-based data
 * Building intuition around rolling windows and time slicing
 
-### 3. Time Series Analysis
+### 3. [Time Series Analysis](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data/blob/main/02_Notebook.ipynb)
 
 In this notebook, I:
 
@@ -108,7 +108,7 @@ In this notebook, I:
 * Apply moving averages and decomposition
 * Introduce stationarity concepts using simple explanations
 
-### 4. Time Series Forecasting
+### 4. [Time Series Forecasting](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data/blob/main/03_Notebook.ipynb)
 
 Finally, I:
 
@@ -122,7 +122,7 @@ The focus here is **understanding behavior**, not chasing perfect predictions.
 
 ## Business Intelligence Dashboards
 
-### Power BI
+### [Power BI](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data/blob/main/TSAF.pdf)
 
 I built a **2-page Power BI report**:
 
@@ -131,7 +131,7 @@ I built a **2-page Power BI report**:
 
 The goal was to translate Python analysis into **clear and business-friendly visuals**.
 
-### Tableau
+### [Tableau](https://public.tableau.com/views/NutritionTrendsOverview20222025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 I also created a **single-page Tableau dashboard**:
 
