@@ -77,6 +77,14 @@ Through this project, I aimed to:
 
 Missing values are intentional and are used later to demonstrate **realistic cleaning and analysis workflows**.
 
+Explore the detailed case studies that document the analysis, methodology, and outcomes of this project:
+
+- **Case Study 1:** [00_NTS.md](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/00_NTS.md)
+- **Case Study 2:** [01_NTS.md](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/01_NTS.md)
+- **Case Study 3:** [02_NTS.md](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/02_NTS.md)
+- **Case Study 4:** [03_NTS.md](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/03_NTS.md)
+
+
 
 ## Notebooks Walkthrough
 
