@@ -1,8 +1,8 @@
-# Nutrition Time Series Analysis (2022–2025)
+# Time Series Analysis & Forecasting with Nutrition Data (2022–2025)
 
 ## About This Project
 
-This repository contains my **end-to-end Time Series Analysis project**, built using a **synthetic nutrition dataset**.
+This repository contains my **end-to-end Time Series Analysis project**, built using a **synthetic nutrition dataset**. 
 
 I created this project to deeply understand **how time-based data works in real-world scenarios**, not just from an analysis point of view, but also from a **data storytelling and business perspective**.
 
@@ -13,7 +13,7 @@ Instead of jumping straight into complex models, I intentionally focused on:
 * Building strong intuition around trends and seasonality
 * Communicating insights clearly using **Power BI** and **Tableau**
 
-Check out the complete article I have written on this Project: [Building a Real-World Time Series Project with Nutrition Data](https://nsdsda.medium.com/building-a-real-world-time-series-project-with-nutrition-data-eff2970c2c8f).
+Check out the complete project walkthrough I have written on this Project: [Building a Real-World Time Series Project with Nutrition Data](https://nsdsda.medium.com/building-a-real-world-time-series-project-with-nutrition-data-eff2970c2c8f).
 
 If you wanna explore from the very basic, go for this first: [Handling Dates, Times & Time Series Data in Pandas](https://pub.towardsai.net/handling-dates-times-time-series-data-in-pandas-d4e8fcc46c62).
 
@@ -84,8 +84,6 @@ Explore the detailed case studies that document the analysis, methodology, and o
 - **Case Study 3:** [02_NTS.md](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/02_NTS.md)
 - **Case Study 4:** [03_NTS.md](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/03_NTS.md)
 
-
-
 ## Notebooks Walkthrough
 
 ### 1. [Dataset Generation & Overview](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data/blob/main/00_Notebook.ipynb)
@@ -127,7 +125,6 @@ Finally, I:
 
 The focus here is **understanding behavior**, not chasing perfect predictions.
 
-
 ## Business Intelligence Dashboards
 
 ### [Power BI](https://github.com/nibeditans/Time-Series-Analysis-Forecasting-with-Nutrition-Data/blob/main/TSAF.pdf)
@@ -152,7 +149,6 @@ I intentionally kept Tableau simple and elegant, without overloading it with fil
 
 Tableau Public Tashboard: [Nutrition Trends Overview (2022–2025)](https://public.tableau.com/views/NutritionTrendsOverview20222025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
 ## Tools & Technologies I Used
 
 ### Programming & Analysis
@@ -169,5 +165,4 @@ Tableau Public Tashboard: [Nutrition Trends Overview (2022–2025)](https://publ
 * Power BI
 * Tableau
 
-
-⭐ If you found this project helpful or interesting, feel free to star and fork the repository!
+⭐ If you found this project helpful and interesting, feel free to star and fork the repository!
